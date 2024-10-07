@@ -20,7 +20,7 @@ function HeroSection16() {
 
   return (
     <>
-      <header className="bg-lavenderWeb p-8">
+      <header className="bg-gray-100 p-8">
         <div className="grid mt-16 min-h-[82vh] w-full lg:h-[54rem] md:h-[34rem] place-items-stretch bg-[url('/image/bg-hero-17.svg')] bg-center bg-contain bg-no-repeat">
           <div className="container mx-auto px-4 text-center">
             <Typography
